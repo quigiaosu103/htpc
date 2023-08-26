@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/root/SmartContract/ft/ft-tutorial/5.transfers/target/debug/build/typenum-81a0210f3a9307fa/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/root/SmartContract/ft/ft-tutorial/5.transfers/target/debug/build/typenum-81a0210f3a9307fa/out/op.rs
